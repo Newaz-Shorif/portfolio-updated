@@ -1,0 +1,50 @@
+   .banner{
+    box-sizing: border-box;
+/* border: 2px solid navy ; */
+padding: 4%;
+margin: 0;
+background-image: url("/images/header-bg.png");
+}
+.nstyle{
+color:rgb(55, 0, 255);
+}
+a{
+   padding: 1% 0.5% ;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid navy;
+    border-radius: 3px;
+}
+p{
+    margin: 10px 0 ;
+}
+h2{
+    margin-top: 2%;
+}
+.half-width{
+display: inline-block;
+    width: 35%;
+height: 100%;
+box-sizing: border-box;
+margin-left: 10%;
+margin-top: 0;
+
+}
+.img{
+    width: 35%;
+    margin-left: 10%;
+}
+#banner2{
+    background-image: url("/images/biography-bg.png");
+}
+.work{
+    width:30%;
+}
+
+#banner3{
+    background-image: url("/images/latest-work-bg.png";
+}
+#banner4{
+    background-image: url("/images/footer-bg.png");
+}
