@@ -36,12 +36,12 @@ margin-top: 0;
     margin-left: 10%;
 }
 #banner2{
-    background-image: url("/images/biography-bg.png");
+    background-image: url("images/biography-bg.png");
 }
 .work{
     width:30%;
 }
 
 #banner3{
-    background-image: url("/images/latest-work-bg.png";
+    background-image: url("images/latest-work-bg.png";
 }
